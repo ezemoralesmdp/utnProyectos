@@ -1,7 +1,7 @@
 ## [MOTOR DE BÚSQUEDA :eye_speech_bubble:] : 
 
 <p align="center">
-  <img src="images/motorBusqueda.png?raw=true" />
+  <img src="../images/motorBusqueda.png?raw=true" />
 </p>
 
 :zap: **Developers:** *Ezequiel Morales, Daniel Diaz y Nazareno Rodríguez* 
