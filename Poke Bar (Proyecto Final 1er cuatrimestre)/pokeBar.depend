@@ -83,3 +83,31 @@
 1624284108 source:d:\universidad tecnologica nacional\1- primer aÑo\primer cuatrimestre\1- programación 1 - laboratorio 1\segundo examen\pokebar\pila.c
 	"pila.h"
 
+1624292239 source:c:\users\eze_f\desktop\repositorios\utnproyectos\poke bar (proyecto final 1er cuatrimestre)\main.c
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"pila.h"
+	"dibujo.h"
+	"struct.h"
+	"const.h"
+
+1490112217 c:\users\eze_f\desktop\repositorios\utnproyectos\poke bar (proyecto final 1er cuatrimestre)\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1624284091 c:\users\eze_f\desktop\repositorios\utnproyectos\poke bar (proyecto final 1er cuatrimestre)\dibujo.h
+	<stdio.h>
+	<windows.h>
+	"const.h"
+
+1624212138 c:\users\eze_f\desktop\repositorios\utnproyectos\poke bar (proyecto final 1er cuatrimestre)\const.h
+
+1624243770 c:\users\eze_f\desktop\repositorios\utnproyectos\poke bar (proyecto final 1er cuatrimestre)\struct.h
+
+1624284108 source:c:\users\eze_f\desktop\repositorios\utnproyectos\poke bar (proyecto final 1er cuatrimestre)\pila.c
+	"pila.h"
+
