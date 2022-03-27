@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1624216226 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar2\pila.c
+	"pila.h"
+
+1490112217 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1624216967 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar2\main.c
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"pila.h"
+	"dibujo.h"
+	"struct.h"
+	"const.h"
+
+1624208078 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar2\dibujo.h
+	<stdio.h>
+	<windows.h>
+	"const.h"
+
+1624212138 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar2\const.h
+
+1624208158 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar2\struct.h
+
+1624284108 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar\pila.c
+	"pila.h"
+
+1490112217 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1624292239 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar\main.c
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"pila.h"
+	"dibujo.h"
+	"struct.h"
+	"const.h"
+
+1624284091 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar\dibujo.h
+	<stdio.h>
+	<windows.h>
+	"const.h"
+
+1624212138 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar\const.h
+
+1624243770 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\1- programación 1 - laboratorio 1\segundo examen\pokebar\struct.h
+
+1624292239 source:d:\universidad tecnologica nacional\1- primer aÑo\primer cuatrimestre\1- programación 1 - laboratorio 1\segundo examen\pokebar\main.c
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"pila.h"
+	"dibujo.h"
+	"struct.h"
+	"const.h"
+
+1490112217 d:\universidad tecnologica nacional\1- primer aÑo\primer cuatrimestre\1- programación 1 - laboratorio 1\segundo examen\pokebar\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1624284091 d:\universidad tecnologica nacional\1- primer aÑo\primer cuatrimestre\1- programación 1 - laboratorio 1\segundo examen\pokebar\dibujo.h
+	<stdio.h>
+	<windows.h>
+	"const.h"
+
+1624212138 d:\universidad tecnologica nacional\1- primer aÑo\primer cuatrimestre\1- programación 1 - laboratorio 1\segundo examen\pokebar\const.h
+
+1624243770 d:\universidad tecnologica nacional\1- primer aÑo\primer cuatrimestre\1- programación 1 - laboratorio 1\segundo examen\pokebar\struct.h
+
+1624284108 source:d:\universidad tecnologica nacional\1- primer aÑo\primer cuatrimestre\1- programación 1 - laboratorio 1\segundo examen\pokebar\pila.c
+	"pila.h"
+

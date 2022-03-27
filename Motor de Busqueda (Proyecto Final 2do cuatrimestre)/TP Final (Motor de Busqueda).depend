@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1636657128 source:c:\users\dany\desktop\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"usuario.h"
+
+1636490659 c:\users\dany\desktop\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\diccionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636512253 source:c:\users\dany\desktop\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\diccionario.c
+	"diccionario.h"
+
+1636642549 c:\users\dany\desktop\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	<alg.h>
+
+1636658741 source:c:\users\dany\desktop\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\motor.c
+	"motor.h"
+
+1636326288 source:g:\otros ordenadores\mi port·til\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\diccionario.c
+	"diccionario.h"
+
+1636319485 g:\otros ordenadores\mi port·til\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\diccionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636387190 source:g:\otros ordenadores\mi port·til\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+
+1636338373 g:\otros ordenadores\mi port·til\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+
+1636387649 source:g:\otros ordenadores\mi port·til\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\motor.c
+	"motor.h"
+
+1636654481 source:c:\users\dany\desktop\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\usuario.c
+	"usuario.h"
+
+1636643832 c:\users\dany\desktop\facultad\2do cuatrimestre\materias\programacion y laboratorio ii\resoluciones\tp final (motor de busqueda)\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+
+1637190924 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\proyecto final\tp final (motor de busqueda)\diccionario.c
+	"diccionario.h"
+
+1637345777 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\proyecto final\tp final (motor de busqueda)\diccionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637353662 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\proyecto final\tp final (motor de busqueda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"usuario.h"
+
+1637291305 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\proyecto final\tp final (motor de busqueda)\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	<alg.h>
+
+1637348535 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\proyecto final\tp final (motor de busqueda)\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+
+1637344828 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\proyecto final\tp final (motor de busqueda)\motor.c
+	"motor.h"
+
+1637353487 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\proyecto final\tp final (motor de busqueda)\usuario.c
+	"usuario.h"
+
+1637190924 source:c:\users\dany\desktop\tp final (motor de busqueda)\diccionario.c
+	"diccionario.h"
+
+1637345777 c:\users\dany\desktop\tp final (motor de busqueda)\diccionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637377026 source:c:\users\dany\desktop\tp final (motor de busqueda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"usuario.h"
+
+1637291305 c:\users\dany\desktop\tp final (motor de busqueda)\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	<alg.h>
+
+1637374272 c:\users\dany\desktop\tp final (motor de busqueda)\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+
+1637344828 source:c:\users\dany\desktop\tp final (motor de busqueda)\motor.c
+	"motor.h"
+
+1637377094 source:c:\users\dany\desktop\tp final (motor de busqueda)\usuario.c
+	"usuario.h"
+
+1637522702 source:c:\users\administrador\desktop\tp final (motor de busqueda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"usuario.h"
+	"presentacion.h"
+	"colors.h"
+
+1637512912 c:\users\administrador\desktop\tp final (motor de busqueda)\diccionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637521054 c:\users\administrador\desktop\tp final (motor de busqueda)\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	<alg.h>
+	"colors.h"
+
+1637519385 c:\users\administrador\desktop\tp final (motor de busqueda)\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"colors.h"
+
+1637474286 source:c:\users\administrador\desktop\tp final (motor de busqueda)\diccionario.c
+	"diccionario.h"
+
+1637521423 source:c:\users\administrador\desktop\tp final (motor de busqueda)\motor.c
+	"motor.h"
+
+1637521757 source:c:\users\administrador\desktop\tp final (motor de busqueda)\usuario.c
+	"usuario.h"
+
+1637518012 c:\users\administrador\desktop\tp final (motor de busqueda)\presentacion.h
+	<stdio.h>
+	<stdlib.h>
+	"colors.h"
+
+1637518012 source:c:\users\administrador\desktop\tp final (motor de busqueda)\presentacion.c
+	"presentacion.h"
+
+1631651358 source:c:\users\administrador\desktop\tp final (motor de busqueda)\colors.c
+	"colors.h"
+
+1631651359 c:\users\administrador\desktop\tp final (motor de busqueda)\colors.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1631651358 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\colors.c
+	"colors.h"
+
+1631651359 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\colors.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1637474286 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\diccionario.c
+	"diccionario.h"
+
+1637695464 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\diccionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637702134 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"usuario.h"
+	"presentacion.h"
+	"colors.h"
+
+1637521054 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	<alg.h>
+	"colors.h"
+
+1637519385 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"colors.h"
+
+1637518012 c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\presentacion.h
+	<stdio.h>
+	<stdlib.h>
+	"colors.h"
+
+1637702796 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\motor.c
+	"motor.h"
+
+1637518012 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\presentacion.c
+	"presentacion.h"
+
+1637702938 source:c:\users\administrador\desktop\universidad tecnologica nacional\2- cursada oficial tecnicatura\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\usuario.c
+	"usuario.h"
+
+1631651358 source:d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\colors.c
+	"colors.h"
+
+1631651359 d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\colors.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1637474286 source:d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\diccionario.c
+	"diccionario.h"
+
+1637695464 d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\diccionario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637702134 source:d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"usuario.h"
+	"presentacion.h"
+	"colors.h"
+
+1637521054 d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\motor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	<alg.h>
+	"colors.h"
+
+1637519385 d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"diccionario.h"
+	"motor.h"
+	"colors.h"
+
+1637518012 d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\presentacion.h
+	<stdio.h>
+	<stdlib.h>
+	"colors.h"
+
+1637702796 source:d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\motor.c
+	"motor.h"
+
+1637518012 source:d:\universidad tecnologica nacional\1- primer a—o\segundo cuatrimestre\programacion ii - laboratorio ii\tp final (motor de busqueda)\presentacion.c
+	"presentacion.h"
+

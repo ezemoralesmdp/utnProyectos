@@ -1,0 +1,11 @@
+Se rompe cuando se busca más de una palabra en el punto 3. Muestra una sola.
+
+EJEMPLO: Buscar "Lovecraft" y después buscar "terror.
+
+-------------------
+
+Punto 4 se rompe si busco una sola palabra en vez de una frase.
+
+Modificar el mensaje, dado que aclara por una sola palabra y no por toda la frase.
+
+-------------------
