@@ -1,4 +1,4 @@
-## [MOTOR DE BÚSQUEDA :eye_speech_bubble:] *Restaurant Management System / Bar* :plate_with_cutlery: : 
+## [MOTOR DE BÚSQUEDA :eye_speech_bubble:] : 
 
 <p align="center">
   <img src="images/motorBusqueda.png?raw=true" />
