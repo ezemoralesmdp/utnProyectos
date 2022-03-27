@@ -1,4 +1,4 @@
-#[POKE BAR :heart:] *Restaurant Management System / Bar* :plate_with_cutlery: : 
+# [POKE BAR :heart:] *Restaurant Management System / Bar* :plate_with_cutlery: : 
 
 <p align="center">
   <img src="../images/pokebar.png?raw=true" />
