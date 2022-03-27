@@ -40,7 +40,7 @@ The duties of the `ENCARGADO / MANAGER` are as follows:
 
 ___
 
-#### :small_blue_diamond: El Cajero
+#### :small_blue_diamond: El Cajero / Cashier
 
 ![Portada Cajero](../images/cajero.png?raw=true)
 
@@ -58,7 +58,7 @@ The duties of the `CAJERO / CASHIER` are as follows:
 3. Ver ganancias actuales
 ___
 
-#### :small_blue_diamond: El Mozo
+#### :small_blue_diamond: El Mozo / Waiter
 
 ![Portada Mozo](../images/mozo.png?raw=true)
 
