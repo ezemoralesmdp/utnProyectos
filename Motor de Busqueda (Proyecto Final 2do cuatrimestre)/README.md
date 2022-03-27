@@ -1,4 +1,4 @@
-## [MOTOR DE BÚSQUEDA :eye_speech_bubble:] : 
+## [MOTOR DE BÚSQUEDA :eye_speech_bubble:] *Keyword search :pill:*: 
 
 <p align="center">
   <img src="../images/motorBusqueda.png?raw=true" />
@@ -17,4 +17,4 @@ There are 5 documents available for search, but there is no problem if the user 
 `doc4.txt` is about `Howard Phillips Lovecraft`  
 `doc5.txt` is about `Edgar Allan Poe`  
 
->**The options are self-descriptive.**
+>*:pushpin: *The options are self-descriptive.**
