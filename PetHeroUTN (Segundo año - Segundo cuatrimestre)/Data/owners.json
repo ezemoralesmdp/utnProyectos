@@ -1,0 +1,27 @@
+[
+    {
+        "firstName": "Rodrigo",
+        "lastName": "Soto",
+        "username": "rodri",
+        "password": "123",
+        "dogs": [
+            {
+                "name": "Olivia",
+                "age": "2",
+                "size": "small"
+            },
+            {
+                "name": "Kongo",
+                "age": "18",
+                "size": "small"
+            }
+        ]
+    },
+    {
+        "firstName": null,
+        "lastName": null,
+        "username": null,
+        "password": null,
+        "dogs": []
+    }
+]

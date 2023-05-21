@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Las orejas de Kevin",
+    "horarios": "9 a 14:30 hs",
+    "direccion": "Monte y Amancay",
+    "barrio": "Mataderos",
+    "descripcion": "Especializacion: castración y desparacitación de perros. Tienda.",
+    "servicios": {
+	    "castracion": true,
+	    "desparacitacion": false,
+	    "adopcion": false,
+	    "peluqueria": true,
+	    "isTienda": false
+    }
+  },
+  {
+    "nombre": "Paprika",
+    "horarios": "8:15 a 14:30 hs",
+    "direccion": "Pavon y Virrey Cevallos",
+    "barrio": "Constitución",
+    "descripcion": "Especializacion: castración y desparacitación de gatos. Adopción disponible",
+    "servicios": {
+	    "castracion": false,
+	    "desparacitacion": false,
+	    "adopcion": false,
+	    "peluqueria": true,
+	    "isTienda": true
+    }
+  },
+  {
+    "nombre": "Veterinaria Wendy",
+    "horarios": "8:15 a 14:30 hs",
+    "direccion": "La Rioja y Cochabamba",
+    "barrio": "San Cristobal",
+    "descripcion": "Especializacion: castración y desparacitación de perros y gatos. Tienda.",
+    "servicios": {
+	    "castracion": true,
+	    "desparacitacion": false,
+	    "adopcion": false,
+	    "peluqueria": true,
+	    "isTienda": false
+    }
+  },
+  {
+    "nombre": "Ringo",
+    "horarios": "8:15 a 14:30 hs",
+    "direccion": "Fco. Bilbao y Lacarra",
+    "barrio": "Parque Avellaneda",
+    "descripcion": "Especializacion: peluquería canina. Tienda.",
+    "servicios": {
+	    "castracion": true,
+	    "desparacitacion": true,
+	    "adopcion": true,
+	    "peluqueria": true,
+	    "isTienda": false
+    }
+  },
+  {
+    "nombre": "Walrus",
+    "horarios": "08:00hs a 06:00 hs",
+    "direccion": "Cuenca 2500",
+    "barrio": "Villa del Parque",
+    "descripcion": "Especializacion: castración y desparacitación de perros y gatos. Peluquería animal. Adopción disponible. Tienda.",
+    "servicios": {
+	    "castracion": true,
+	    "desparacitacion": true,
+	    "adopcion": false,
+	    "peluqueria": false,
+	    "isTienda": true
+    }
+  }
+]

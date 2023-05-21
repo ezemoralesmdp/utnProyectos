@@ -1,0 +1,35 @@
+[
+	{
+		"password": "123",
+		"appointments": [
+		],
+		"wallet": {
+			"amount": 0
+		},
+		"name": "eze",
+		"enabledForFostering": true,
+		"animals": [
+			{
+				"specie": "",
+				"gender": "",
+				"healthStatus": "",
+				"name": "",
+				"castrate": false,
+				"age": 0,
+				"breed": ""
+			},
+			{
+				"specie": "Canino",
+				"gender": "Macho",
+				"healthStatus": "Saludable",
+				"name": "kevin",
+				"castrate": true,
+				"age": 12,
+				"breed": "cocker"
+			}
+		],
+		"user": "eze",
+		"email": "eze",
+		"age": 2
+	}
+]
